@@ -1,6 +1,6 @@
 {
   "name": "kc-fwrite",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "[nodejs] fs.writeFileSync wrapper.",
   "main": "index.js",
   "repository": {
