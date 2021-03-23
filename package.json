@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/node-fwrite.git"
+    "url": "https://github.com/kaisarsnippets/node-fwrite.git"
   },
   "keywords": [
     "file",
@@ -15,7 +15,7 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/node-fwrite/issues"
+    "url": "https://github.com/kaisarsnippets/node-fwrite/issues"
   },
-  "homepage": "https://github.com/KaisarCode/node-fwrite"
+  "homepage": "https://github.com/kaisarsnippets/node-fwrite"
 }
